@@ -3,7 +3,7 @@ package com.knf.dev.librarymanagementsystem.service.impl;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletResponse;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Service;
